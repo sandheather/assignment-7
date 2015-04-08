@@ -66,17 +66,26 @@ nav li{
 a{
 	color: #fff;
 	text-decoration: none;
+}
+
+.banner{
+	position:relative;
+	overflow: hidden;
+	width: 100%;
+}
 
 .banner-image{
 	width:100%;
+	display: block;
 }
 
 .banner-text{
 	font-size: 1.5em;
+	font-weight: bold;
 	color: #fff;
 	text-align: center;
 	bottom: 1.5em;
-	width: 100%;
+	width: 50%;
 	margin: 0;
 	position: absolute;
 }
