@@ -19,12 +19,13 @@ padding-top: 6em;
 background-image: url("../images/beetle graphic.svg"), url("../images/beetle graphic.svg"), url("../images/masthead-bg.png");
 background-size: 75px auto, 75px auto, 94.5px auto;
 background-repeat: no-repeat, no-repeat, repeat;
-background-position: center 10px, left top;
+background-position: left center, right center;
 text-align: center;
 }
 
 nav{
-	text-align: left;
+	text-align: center;
+
 }
 
 nav ul{
@@ -37,9 +38,10 @@ nav ul{
 nav li{
 	margin:0;
 	padding:10px;
-	width:100%;
+	width: 24%%;
 	background-color: ;
 	display: inline-block;
+	text-decoration: none;
 }
 
 .banner-image{
@@ -71,7 +73,10 @@ nav li{
 }
 
 footer{
+	background-color:
 
 }
 
-.f-beetle
+.f-beetle{
+	width:30%;
+}
