@@ -65,38 +65,89 @@ a{
 
 .ant-nest{
 	width:50%;
-	float:left;
+	display: block;
+	margin: 0;
+
+
 }
 
 .button-a{
-
+	color: #fff;
+	font-weight: lighter;
+	border-radius: 18px;
+	padding: 5px;
+	bottom: 10px;
+	clear:left;
+	position:absolute;
+	overflow: hidden;
+	width: 25%;
+	text-align: center;
+	background-image: linear-gradient(to bottom, #6fc000, #388200);
+	box-shadow: 2px 2px 2px #000;
 }
 
 .stag{
 	width:50%;
 	float:right;
+	clear:left;
+	display: inline block;
 }
 
 .button-s{
-
+	color: #fff;
+	font-weight: lighter;
+	border-radius: 18px;
+	padding: 5px;
+	bottom: px;
+	clear:left;
+	position:absolute;
+	overflow: hidden;
+	width: 25%;
+	text-align: center;
+	background-image: linear-gradient(to bottom, #6fc000, #388200);
+	box-shadow: 2px 2px 2px #000;
 }
 
 .dung{
 	width:50%;
-	float:left;
+	display: block;
+	margin: 0;
 }
 
 .button-d{
-
+	color: #fff;
+	font-weight: lighter;
+	border-radius: 18px;
+	padding: 5px;
+	bottom: px;
+	clear:left;
+	position:absolute;
+	overflow: hidden;
+	width: 25%;
+	text-align: center;
+	background-image: linear-gradient(to bottom, #6fc000, #388200);
+	box-shadow: 2px 2px 2px #000;
 }
 
 .tortoise{
 	width:50%;
 	float:right;
+	display: block;
 }
 
 .button-t{
-
+	color: #fff;
+	font-weight: lighter;
+	border-radius: 18px;
+	padding: 5px;
+	bottom: px;
+	clear:right;
+	position:absolute;
+	overflow: hidden;
+	width: 25%;
+	text-align: center;
+	background-image: linear-gradient(to bottom, #6fc000, #388200);
+	box-shadow: 2px 2px 2px #000;
 }
 
 footer{
