@@ -14,19 +14,19 @@ body{
 h1 {
 	text-align: center;
 	margin:0;
-	font-size: 4em;
+	font-size: 4.5em;
 	color:#512200;
 	font-weight: bold;
 
 }
 
 .masthead{
-padding-top: 2em;
-padding-bottom: 4em;
+padding-top: 1.2em;
+padding-bottom: 5.5em;
 background-image: url("../images/beetle graphic.svg"), url("../images/beetle graphic.svg"), url("../images/masthead-bg.png");
-background-size: 60px auto, 60px auto, 94.5px auto;
+background-size: 60px auto, 60px auto, 158px auto;
 background-repeat: no-repeat, no-repeat, repeat;
-background-position: left center, right center;
+background-position: left center, right center, right center;
 text-align: center;
 }
 
