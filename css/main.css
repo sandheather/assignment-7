@@ -64,6 +64,32 @@ a{
 	text-decoration: none;
 }
 
+.left{
+padding-left: 4%;
+padding-right: 4%;
+}
+
+.center-1{
+padding-left: 4%;
+padding-right: 4%;
+}
+
+.center-2{
+padding-left: 4%;
+padding-right: 4%;
+}
+
+.right{
+padding-left: 4%;
+padding-right: 4%;
+}
+
+.hover .left{
+	background-color: #512200;
+	opacity: 0.8;
+	filter: alpha(opacity=80);
+}
+
 .banner{
 	position:relative;
 	overflow: hidden;
