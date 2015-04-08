@@ -157,10 +157,13 @@ a{
 }
 
 footer{
-	background-color:
-
+	background-color: #512200;
+	opacity: 0.5;
+	filter: alpha(opacity=50);
+	display: block;
 }
 
 .f-beetle{
 	width:30%;
+
 }
