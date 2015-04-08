@@ -10,8 +10,13 @@ html {
 body{
 	margin:0;
 }
+
 h1 {
 	text-align: center;
+	margin:0;
+	font-size: 4em;
+	color:#512200;
+	font-weight: bold;
 
 }
 
