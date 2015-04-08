@@ -5,3 +5,73 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+body{
+	margin:0;
+}
+h1 {
+	text-align: center;
+
+}
+
+.masthead{
+padding-top: 6em;
+background-image: url("../images/beetle graphic.svg"), url("../images/beetle graphic.svg"), url("../images/masthead-bg.png");
+background-size: 75px auto, 75px auto, 94.5px auto;
+background-repeat: no-repeat, no-repeat, repeat;
+background-position: center 10px, left top;
+text-align: center;
+}
+
+nav{
+	text-align: left;
+}
+
+nav ul{
+	color: #fff;
+	list-style: none;
+	margin: 0;
+	padding:0;
+}
+
+nav li{
+	margin:0;
+	padding:10px;
+	width:100%;
+	background-color: ;
+	display: inline-block;
+}
+
+.banner-image{
+	width:100%;
+}
+
+.banner-text{
+
+}
+
+.ant-nest{
+	width:50%;
+	float:left;
+}
+
+.stag{
+	width:50%;
+	float:right;
+}
+
+.dung{
+	width:50%;
+	float:left;
+}
+
+.tortoise{
+	width:50%;
+	float:right;
+}
+
+footer{
+
+}
+
+.f-beetle
