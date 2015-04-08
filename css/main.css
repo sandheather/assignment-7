@@ -102,14 +102,16 @@ padding-right: 4%;
 }
 
 .banner-text{
-	font-size: 1.5em;
+	font-size: 2em;
 	font-weight: bold;
 	color: #fff;
 	text-align: center;
-	bottom: 1.5em;
-	width: 50%;
+	bottom: 1em;
+	width: 100%;
 	margin: 0;
 	position: absolute;
+	padding-left: 90px;
+	padding-right: 90px;
 }
 
 .ant-nest{
