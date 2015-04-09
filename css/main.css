@@ -21,7 +21,6 @@ h1 {
 
 .masthead{
 padding-top: 1.2em;
-padding-bottom: 5.5em;
 background-image: url("../images/beetle graphic.svg"), url("../images/beetle graphic.svg"), url("../images/masthead-bg.png");
 background-size: 65px auto, 65px auto, 158px auto;
 background-repeat: no-repeat, no-repeat, repeat;
@@ -30,18 +29,12 @@ text-align: center;
 }
 
 nav{
-	text-decoration: none;
-	overflow: hidden;
-	color: #000;
 	background-color: rgba(81,31,0,0.5);
 	font-weight: bold;
-	font-size: 2.2rem;
-	position: relative;
-	bottom: 3.9rem;
+	font-size: 20pt;
 }
 
 nav ul{
-	color: #000;
 	list-style: none;
 	margin: 0;
 	padding: 0;
@@ -52,7 +45,7 @@ nav li{
 	padding:10px;
 	display: inline-block;
 	text-decoration: none;
-	color: #000;
+	width:24.3%;
 }
 
 a{
@@ -61,31 +54,7 @@ a{
 }
 
 .nav:hover{
-	background-color: rgba(81,31,0,0.5);
-}
-
-.left{
-padding-left: 4%;
-padding-right: 4%;
-}
-
-.center-1{
-padding-left: 4%;
-padding-right: 4%;
-}
-
-.center-2{
-padding-left: 4%;
-padding-right: 4%;
-}
-
-.right{
-padding-left: 4%;
-padding-right: 4%;
-}
-
-.hover .left{
-	background-color: #512200;
+	background-color: rgba(81,31,0, 0.5);
 }
 
 .banner{
