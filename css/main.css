@@ -118,9 +118,8 @@ padding-right: 4%;
 .ant-nest{
 	width:50%;
 	display: block;
+	float:left;
 	margin: 0;
-
-
 }
 
 .button-a{
@@ -140,9 +139,8 @@ padding-right: 4%;
 
 .stag{
 	width:50%;
+	display: inline-block;
 	float:right;
-	clear:left;
-	display: inline block;
 }
 
 .button-s{
@@ -183,7 +181,7 @@ padding-right: 4%;
 
 .tortoise{
 	width:50%;
-	float:right;
+	clear:right;
 	display: block;
 }
 
