@@ -91,39 +91,41 @@ a{
 	margin: 0;
 }
 
-.button-a{
+.square{
+	display:block;
+}
+
+.beetle img{
+	width:100%;
+	display:block;
+}
+
+.beetle{
+	width:50%;
+	float:left;
+	position: relative;
+}
+
+.beetle h2{
+	display:inline-block;
+	text-decoration: none;
 	color: #fff;
 	font-weight: lighter;
 	border-radius: 18px;
 	padding: 5px;
-	bottom: 10px;
-	clear:left;
+	bottom: 5%;
 	position:absolute;
-	overflow: hidden;
-	width: 25%;
+	width: 60%;
 	text-align: center;
 	background-image: linear-gradient(to bottom, #6fc000, #388200);
 	box-shadow: 2px 2px 2px #000;
+	left:20%;
 }
 
 .stag{
 	width:50%;
 	display: inline-block;
 	float:right;
-}
-
-.button-s{
-	color: #fff;
-	font-weight: lighter;
-	border-radius: 18px;
-	padding: 5px;
-	float:right;
-	position:absolute;
-	overflow: hidden;
-	width: 25%;
-	text-align: center;
-	background-image: linear-gradient(to bottom, #6fc000, #388200);
-	box-shadow: 2px 2px 2px #000;
 }
 
 .dung{
@@ -133,37 +135,10 @@ a{
 	float:left;
 }
 
-.button-d{
-	color: #fff;
-	font-weight: lighter;
-	border-radius: 18px;
-	padding: 5px;
-	float:left;
-	position:30px 30px 30px 30px;
-	overflow: hidden;
-	width: 25%;
-	text-align: center;
-	background-image: linear-gradient(to bottom, #6fc000, #388200);
-	box-shadow: 2px 2px 2px #000;
-}
-
 .tortoise{
 	width:50%;
 	clear:right;
 	display: block;
-}
-
-.button-t{
-	color: #fff;
-	font-weight: lighter;
-	border-radius: 18px;
-	padding: 5px;
-	float:right;
-	overflow: hidden;
-	width: 25%;
-	text-align: center;
-	background-image: linear-gradient(to bottom, #6fc000, #388200);
-	box-shadow: 2px 2px 2px #000;
 }
 
 footer{
@@ -173,6 +148,7 @@ footer{
 	background-repeat: no-repeat;
 	background-position: center;
 	padding:30px;
+	clear:both;
 }
 
 .f-beetle{
