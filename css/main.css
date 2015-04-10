@@ -14,7 +14,7 @@ body{
 h1 {
 	text-align: center;
 	margin:0;
-	font-size: 4.5em;
+	font-size: 36pt;
 	color:#512200;
 	font-weight: bold;
 }
@@ -22,7 +22,7 @@ h1 {
 .masthead{
 padding-top: 1.2em;
 background-image: url("../images/beetle graphic.svg"), url("../images/beetle graphic.svg"), url("../images/masthead-bg.png");
-background-size: 65px auto, 65px auto, 158px auto;
+background-size: 50px auto, 50px auto, 158px auto;
 background-repeat: no-repeat, no-repeat, repeat;
 background-position: left 35px, right 35px, right center;
 text-align: center;
@@ -31,7 +31,7 @@ text-align: center;
 nav{
 	background-color: rgba(81,31,0,0.5);
 	font-weight: bold;
-	font-size: 20pt;
+	font-size: 15pt;
 }
 
 nav ul{
@@ -69,7 +69,7 @@ a{
 }
 
 .banner-text{
-	font-size: 2em;
+	font-size: 18pt;
 	font-weight: bold;
 	color: #fff;
 	text-align: center;
@@ -151,7 +151,3 @@ footer{
 	clear:both;
 }
 
-.f-beetle{
-	width:20%;
-	padding:20px;
-}
